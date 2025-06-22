@@ -2,7 +2,7 @@
   "name": "longest-visualizer",
   "version": "0.0.1",
   "private": true,
-  "homepage": "https://RuiqiTang.github.io/Leetcode-Hot-100/longest_visualizer_full",
+  "homepage": "https://ruiqitang.github.io/Leetcode-Hot-100",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
